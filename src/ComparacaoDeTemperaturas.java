@@ -81,7 +81,7 @@ public class ComparacaoDeTemperaturas {
 
 
 /*
-public class ExercicioProposto01 {
+public class ComparacaoDeTemperaturas {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         List<Double> temperaturasSemestral = new ArrayList<Double>();
